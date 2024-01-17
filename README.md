@@ -20,6 +20,7 @@ Go中实现的算法（For Beginners）：[TheAlgorithms/Go: Algorithms and Data
 
 Go微服务框架 - micro（go-micro）：[go-micro/go-micro: A Go microservices framework (github.com)](https://github.com/go-micro/go-micro)
 
+gRPC 的 Go 语言实现。基于 HTTP/2 的 RPC（The Go language implementation of gRPC. HTTP/2 based RPC）:[gRPC/go-gRPC:The Go language implementation of gRPC. HTTP/2 based RPC(github.com)](https://github.com/grpc/grpc-go)
 ---
 
 持续更新 ...
